@@ -1,7 +1,7 @@
 # ⚡ Embedded Systems – Arduino & LabVIEW Practices
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
-![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/-MIT-black?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 This repository contains a collection of **Embedded Systems practices** using **Arduino** and **LabVIEW**, developed as part of the Virtual Instrumentation Laboratory at Universidad de Guadalajara (CUCEI).  
 
