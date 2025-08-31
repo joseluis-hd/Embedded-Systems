@@ -12,8 +12,7 @@ The project integrates hardware control, data acquisition, and visualization thr
 
 ## 🚀 Requirements
 - Arduino Uno (or compatible board)  
-- LabVIEW with NI-VISA installed  
-- Libraries: `Servo.h`, `LiquidCrystal.h`  
+- LabVIEW
 
 ---
 
