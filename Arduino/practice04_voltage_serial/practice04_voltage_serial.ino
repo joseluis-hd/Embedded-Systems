@@ -1,9 +1,18 @@
-void setup() {
-  // put your setup code here, to run once:
+int bites;
+float voltaje;
 
+void setup() 
+{
+  Serial.begin(9600);
 }
 
-void loop() {
-  // put your main code here, to run repeatedly:
+void loop() 
+{
+  bites = analogRead(0);
 
+  voltaje = (bites) * (5.0 / 1023.0);
+
+  Serial.println(voltaje);
+
+  delay(25);
 }
